@@ -1,0 +1,2 @@
+This is a description of our new feature.
+It will be added to the feature-branch branch.
